@@ -2,7 +2,7 @@ from fastapi import FastAPI
 import requests
 import json
 
-API_KEY = "AIzaSyCxlO5qac9RsUfe-1Iit6O7aSY8WAqZqBA"
+API_KEY = ""
 
 app = FastAPI()
 
